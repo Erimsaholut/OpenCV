@@ -1,0 +1,1 @@
+print("piton ve anakonda")
