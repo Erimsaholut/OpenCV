@@ -1,5 +1,6 @@
 # OpenCV Examples
 
+**Please note that these examples are intended to provide a foundational understanding of OpenCV**
 This repository contains various examples and projects related to computer vision using OpenCV.
 
 ## Table of Contents
